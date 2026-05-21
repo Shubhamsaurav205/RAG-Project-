@@ -1,7 +1,6 @@
 # RAG-Project- 
 I developed a RAG-based research paper assistant using my own research papers as the knowledge source. The system allows users to ask questions in natural language, and the LLM generates answers using retrieved context from the papers.
 
-
 # Agentic RAG System using LangGraph
 
 This project is a complete implementation of Traditional RAG and Agentic RAG using LangGraph, LangChain, Gemini, and FAISS.
@@ -25,6 +24,7 @@ The system can:
 - FAISS Vector Database
 - HuggingFace Embeddings
 - Streamlit
+- uv Package Manager
 
 ---
 
@@ -171,10 +171,16 @@ git clone <your-repository-url>
 cd <project-folder>
 ```
 
+Initialize uv project:
+
+```bash
+uv init
+```
+
 Create virtual environment:
 
 ```bash
-python -m venv .venv
+uv venv
 ```
 
 Activate environment:
@@ -194,7 +200,14 @@ source .venv/bin/activate
 Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+uv add langchain
+uv add langgraph
+uv add streamlit
+uv add faiss-cpu
+uv add sentence-transformers
+uv add langchain-community
+uv add langchain-google-genai
+uv add python-dotenv
 ```
 
 ---
@@ -248,3 +261,4 @@ Through this project, I learned:
 Shubham Saurav
 
 AI/ML Engineer | Generative AI Enthusiast
+
