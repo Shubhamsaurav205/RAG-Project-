@@ -1,0 +1,15 @@
+Machine Learning Basics
+Machine Learning is a branch of Artificial Intelligence that enables systems to learn patterns from data and make predictions or decisions without being explicitly programmed.
+
+Key Features of Machine Learning
+Learns from data automatically
+Improves performance with experience
+Identifies patterns and relationships
+Supports prediction and decision-making
+Handles large amounts of data
+Used in AI and automation
+Reduces manual programming
+Supports classification and regression
+Enables intelligent systems
+Widely used in real-world applications
+  

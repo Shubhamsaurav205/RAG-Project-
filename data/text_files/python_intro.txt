@@ -1,0 +1,14 @@
+Python Programming introduction
+    Python is a high-level, interpreted, and easy-to-learn programming language widely used in web development, AI/ML, data science, automation, and software development.
+
+Key Features of Python
+Simple and readable syntax
+Easy to learn and use
+Object-oriented programming support
+Large standard library
+Cross-platform support
+Open-source and free
+Supports AI/ML and data science
+Interpreted language
+Dynamically typed
+Huge community support  

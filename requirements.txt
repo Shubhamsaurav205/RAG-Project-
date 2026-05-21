@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
+openai
+python-dotenv
+google-generativeai
+langchain_openai
+langgrapgh 
+langchain-text-splitters
+langchain_google_genai
